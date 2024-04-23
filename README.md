@@ -9,7 +9,7 @@
 
 - 💬 Topics? **react, re and dataflow**
 
-- 📫 How to reach me **jstn.rbts@icloud.com**
+- 📫 How to reach me **Discord: Ambiente.    <- With Dot!**
 
 
 <h3 align="left">Languages and Tools:</h3>
