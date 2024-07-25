@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ambiente</h1>
+<h1 align="center">Hi 👋, I'm Attica</h1>
 <h3 align="center">A passionate Dev from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theambiente&label=Profile%20views&color=0e75b6&style=flat" alt="theambiente" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Topics? **react, re and dataflow**
 
-- 📫 How to reach me **Discord: Ambiente.    <- With Dot!**
+- 📫 How to reach me **Discord: Atticax**
 
 
 <h3 align="left">Languages and Tools:</h3>
