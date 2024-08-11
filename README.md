@@ -1,11 +1,7 @@
 <h3 align="center">
   Welcome to Attica's profile!
  
-</h3>
-<p align="center">
-  <a href="https://github.com/atticax/atticax"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+Hinageshi!;Game+Dev;Web+Dev;Database+Rat)](https://git.io/typing-svg)"></a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+im+Hinageshi!;Game+Dev;Web+Dev;Database+Rat)](https://git.io/typing-svg)
 ---
 <div align="center">
   
