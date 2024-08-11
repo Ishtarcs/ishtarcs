@@ -28,6 +28,7 @@
   📫 How to reach me:  
   Mail me at "theambiente@icloud.com" 
   </table>
+  <br>
 
 <div align="center">
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
