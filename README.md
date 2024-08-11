@@ -15,15 +15,19 @@
 <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, React, C++**
 
+- 🌱 I’m currently learning **to reverse multiple things for something special!**
 
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-  -👋 Hi, I’m @Atticax
-  -❤️ I Love nothing besides myself.
-  -🌱 I’m currently learning C++.
-  -💼 Im an Agency Operator and Coding Freelaner
-  -⚡Fun fact: 7 out of 10 consumers find a company via the blog
+- 💬 Ask me about *C#, SQL, JAVA**
 
+- 📫 Feel free to reach me out **theambiente@icloud.com**
+
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Atticax](https://discordapp.com/users/1258172662254141603) my username!
+<!--Intro end-->
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
