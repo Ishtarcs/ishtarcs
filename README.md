@@ -1,4 +1,9 @@
 <h3 align="center">
+  <!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
   <img src="https://komarev.com/ghpvc/?username=atticax&label=Profile%20views&color=0e75b6&style=flat" alt="atticax_profileviews" /> </p>
   Welcome to Attica Hinageshi´s profile!
 
