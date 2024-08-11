@@ -22,7 +22,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about *C#, SQL, JAVA**
+- 💬 Ask me about **C#, SQL, JAVA**
 
 - 📫 Feel free to reach me out **theambiente@icloud.com**
 
