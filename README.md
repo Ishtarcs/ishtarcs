@@ -15,12 +15,12 @@
 <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 
-<ul>
-  <li>👋 Hi, I’m @Atticax</li>
-  <li>❤️ I Love nothing besides myself.</li>
-  <li>🌱 I’m currently learning C++.</li>
-  <li>💼 Im an Agency Operator and Coding Freelaner</li>
-</ul> 
+
+  👋 Hi, I’m @Atticax
+  ❤️ I Love nothing besides myself.
+  🌱 I’m currently learning C++.
+  💼 Im an Agency Operator and Coding Freelaner
+
 
 <div align="center">
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
