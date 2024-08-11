@@ -14,6 +14,7 @@
 <div>
 <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
+<table>
 🔭 I’m currently working on my Project : https://S4Netsphere.com
   
 🌱 I’m currently learning : C++
@@ -26,6 +27,7 @@
 
   📫 How to reach me:  
   Mail me at "theambiente@icloud.com" 
+  </table>
 
 <div align="center">
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
