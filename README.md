@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Attica's profile!
+  Welcome to Atticaa Hinageshi´s profile!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Hi+im+Hinageshi!;Game+Dev;Web+Dev;Database+Rat)](https://git.io/typing-svg)
   
