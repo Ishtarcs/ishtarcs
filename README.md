@@ -1,4 +1,5 @@
 <h3 align="center">
+  ![](https://komarev.com/ghpvc/?username=atticax&label=Visitors+Count&color=brightgreen)
   Welcome to Attica's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -47,6 +48,4 @@
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
----
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
 </div>
