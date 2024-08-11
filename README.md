@@ -18,11 +18,11 @@
 
 
 <div align="center">
-  👋 Hi, I’m @Atticax
-  ❤️ I Love nothing besides myself.
-  🌱 I’m currently learning C++.
-  💼 Im an Agency Operator and Coding Freelaner
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+  -👋 Hi, I’m @Atticax
+  -❤️ I Love nothing besides myself.
+  -🌱 I’m currently learning C++.
+  -💼 Im an Agency Operator and Coding Freelaner
+  -⚡Fun fact: 7 out of 10 consumers find a company via the blog
 </div>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
