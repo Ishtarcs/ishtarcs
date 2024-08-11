@@ -18,7 +18,7 @@
 <ul>
   <li>👋 Hi, I’m @Atticax</li>
   <li>❤️ I Love nothing besides myself.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
+  <li>🌱 I’m currently learning C++.</li>
   <li>💼 Im an Agency Operator and Coding Freelaner</li>
 </ul> 
 
