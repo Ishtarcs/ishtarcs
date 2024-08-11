@@ -16,13 +16,12 @@
 </div>
 
 
+
+<div align="center">
   👋 Hi, I’m @Atticax
   ❤️ I Love nothing besides myself.
   🌱 I’m currently learning C++.
   💼 Im an Agency Operator and Coding Freelaner
-
-
-<div align="center">
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 </div>
 
