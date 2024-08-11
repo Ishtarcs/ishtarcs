@@ -46,7 +46,12 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis"/></td>
+        <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /></td>
+       <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /></td>
+       <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /></td>
+       <td><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" /></td>
+       <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" /></td>
+       <td><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" /></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
