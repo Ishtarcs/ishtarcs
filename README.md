@@ -1,11 +1,10 @@
 <h3 align="center">
   <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-  <img src="https://komarev.com/ghpvc/?username=atticax&label=Profile%20views&color=0e75b6&style=flat" alt="atticax_profileviews" /> </p>
+<img src="https://komarev.com/ghpvc/?username=atticax&label=Profile%20views&color=0e75b6&style=flat" alt="atticax_profileviews" /> </p>
   Welcome to Attica Hinageshi´s profile!
+  <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+im+Hinageshi!;Game+Dev;Web+Dev;Database+Rat)](https://git.io/typing-svg)
   
