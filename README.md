@@ -26,9 +26,6 @@
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
 
-## 🌐Socials
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
-
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
@@ -57,10 +54,14 @@
     </tr>
 </table>
 <br>
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=atticax&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=atticax&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atticax&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2>⭐ | Github Stats </h2>
+
+<div align="center">
+<a href="https://github.com/atticax">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atticax&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atticax&layout=compact&langs_count=7&theme=default"/></a>
+</div>
+
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=atticax&theme=discord&no-frame=false&no-bg=false&margin-w=4)
