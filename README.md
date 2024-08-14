@@ -24,8 +24,6 @@
 
 - 💬 Ask me about **C#, SQL, JAVA**
 
-- 📫 Feel free to reach me out **theambiente@icloud.com**
-
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [Atticax](https://discordapp.com/users/1258172662254141603) my username!
 <!--Intro end-->
 
