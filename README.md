@@ -18,16 +18,25 @@
   </a>
 </div>
 
+<br><br>
+
 ---
 
 ## 💫 About Me
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="60%" alt="About Me GIF">
 
-- 🔭 Currently working on **AWS, React, C++**
-- 🌱 Learning to **reverse engineer** multiple things for something special!
-- ☁️ Passionate about **Cloud Computing**, currently exploring **AWS**
-- 💬 Feel free to ask me about **C#, SQL, JAVA**
-- 🏠 Connect with me on Discord: [Ishtarcs](https://discordapp.com/users/1258172662254141603)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="60%" alt="About Me GIF">
+</div>
+
+<div align="center">
+  <ul>
+    <li>🔭 Currently working on <b>AWS, React, C++</b></li>
+    <li>🌱 Learning to <b>reverse engineer</b> multiple things for something special!</li>
+    <li>☁️ Passionate about <b>Cloud Computing</b>, currently exploring <b>AWS</b></li>
+    <li>💬 Feel free to ask me about <b>C#, SQL, JAVA</b></li>
+    <li>🏠 Connect with me on Discord: <a href="https://discordapp.com/users/1258172662254141603">Ishtarcs</a></li>
+  </ul>
+</div>
 
 ---
 
@@ -57,7 +66,7 @@
 ## 🏆 GitHub Dev Card
 
 <p align="center">
-  <a href="https://github.com/atticax">
+  <a href="https://github.com/ishtarcs">
     <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=ishtarcs&lineCount=3&theme=github_dark" width="300">
   </a>
 </p>
@@ -67,7 +76,7 @@
 ## ⭐ GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/atticax">
+  <a href="https://github.com/ishtarcs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishtarcs&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtarcs&layout=compact&langs_count=7&theme=default"/>
   </a>
