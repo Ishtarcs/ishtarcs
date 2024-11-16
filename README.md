@@ -20,9 +20,7 @@
 
 ---
 
-<div align="center">
-  
-# 💫 About Me
+## 💫 About Me
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="60%" alt="About Me GIF">
 
 - 🔭 Currently working on **AWS, React, C++**
@@ -33,19 +31,36 @@
 
 ---
 
-## 🛠️ Languages, Frameworks, and Tools
+## ⚙️ Current Tech Stack
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="61" height="61">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="61" height="61">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="61" height="61">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="61" height="61">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="61" height="61">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="61" height="61">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="61" height="61">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="61" height="61">
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="61" height="61">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/Language-C%23-green?style=flat&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react"/>
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=atticax&theme=github"/>
+</p>
+
+---
+
+## 🏆 GitHub Dev Card
+
+<p align="center">
+  <a href="https://github.com/atticax">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=atticax&lineCount=3&theme=github_dark" width="300">
+  </a>
+</p>
 
 ---
 
@@ -60,6 +75,14 @@
 
 ---
 
+## 🌐 Visitor Counter
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/atticax/count.svg" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -69,6 +92,7 @@
 ---
 
 ## ✍️ Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
 </div>
