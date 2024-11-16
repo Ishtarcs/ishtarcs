@@ -1,6 +1,6 @@
 <h3 align="center">
-  <!-- Ishtar from Fate Anime Style Image Top -->
-  <img src="https://media.tenor.com/khAzbK0RJpgAAAAC/fate-stay-night-iskander.gif" width="100%" alt="Ishtar Fate Image">
+  <!-- Funny GIF Top -->
+  <img src="https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif" width="100%" alt="Funny GIF Top">
 </h3>
 
 <p align="center">
@@ -10,9 +10,9 @@
 <h1 align="center">Welcome to my profile! 🌟</h1>
 
 <div align="center">
-  <!-- Ishtar-themed GIFs from Fate -->
-  <img align="left" src="https://media.tenor.com/PQ6FLdN-XYIAAAAC/ishtar-fate.gif" width="250" height="350" alt="Ishtar GIF Left">
-  <img align="right" src="https://media.tenor.com/T2hb72X7uVIAAAAC/ishtar-fate-chan.gif" width="250" height="350" alt="Ishtar GIF Right">
+  <!-- Funny-themed GIFs Left and Right -->
+  <img align="left" src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="250" height="250" alt="Funny Cat GIF Left">
+  <img align="right" src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="250" height="250" alt="Funny Dog GIF Right">
 
   <br>
 
@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/peNYVmrp0Y0AAAAC/ishtar-fate.gif" width="60%" alt="About Me Ishtar GIF">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="60%" alt="Funny About Me GIF">
 </div>
 
 <div align="center">
@@ -70,48 +70,4 @@
 
 ## 🛠️ GitHub Dev Card
 
-<p align="center">
-  <a href="https://github.com/ishtarcs">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Ishtarcs&lineCount=3&theme=github&bgColor=black&titleColor=FFD700&textColor=FFFFFF" width="300" alt="GitHub Tech Stack Card">
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ishtarcs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishtarcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0e1116&title_color=FFD700&icon_color=c0c0c0&text_color=ffffff"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtarcs&layout=compact&langs_count=7&theme=tokyonight&bg_color=0e1116&title_color=FFD700&text_color=ffffff"/>
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishtarcs&theme=algolia&no-frame=true&bg_color=0e1116&title_color=FFD700&text_color=c0c0c0&margin-w=15"/>
-</div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</div>
-
----
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-respect.svg">
-  <img src="https://forthebadge.com/images/badges/uses-git.svg">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-</p>
-
-<h3 align="center">
-  <!-- Ishtar from Fate Image Bottom -->
-  <img src="https://media.tenor.com/khAzbK0RJpgAAAAC/fate-stay-night-iskander.gif" width="100%" alt="Ishtar Fate Image">
-</h3>
+<p
