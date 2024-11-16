@@ -1,18 +1,18 @@
 <h3 align="center">
-  <!-- GOLDEN DIVIDER TOP -->
-  <img src="https://raw.githubusercontent.com/ishtarcs/assets/main/golden-divider.png" width="100%" alt="Gold Divider">
+  <!-- Ishtar from Fate Anime Style Image Top -->
+  <img src="https://media.giphy.com/media/l41YjX9lbvS6ZZC1S/giphy.gif" width="100%" alt="Ishtar Fate Image">
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishtarcs&label=Profile%20views&color=f1c40f&style=flat" alt="profile_views" /> 
+  <img src="https://komarev.com/ghpvc/?username=ishtarcs&label=Profile%20views&color=f1c40f&style=flat" alt="Profile Views" />
 </p>
 
 <h1 align="center">Welcome to my profile! 🌟</h1>
 
 <div align="center">
-  <!-- Temple-themed decor -->
-  <img src="https://raw.githubusercontent.com/ishtarcs/assets/main/golden-temple.gif" width="20%" alt="Temple Left">
-  <img src="https://raw.githubusercontent.com/ishtarcs/assets/main/golden-temple.gif" width="20%" alt="Temple Right">
+  <!-- Ishtar-themed GIFs from Fate -->
+  <img align="left" src="https://media.giphy.com/media/xT9IgmVjsF9LqHCEAs/giphy.gif" width="20%" alt="Ishtar GIF Left">
+  <img align="right" src="https://media.giphy.com/media/5D9Z8ft0i7g7ozXhmF/giphy.gif" width="20%" alt="Ishtar GIF Right">
 
   <br>
 
@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ishtarcs/assets/main/about-me-temple.gif" width="60%" alt="About Me Temple GIF">
+  <img src="https://media.giphy.com/media/j0iC7PmhP5mbwv6ePV/giphy.gif" width="60%" alt="About Me Ishtar GIF">
 </div>
 
 <div align="center">
@@ -89,14 +89,6 @@
 
 ---
 
-## 🌐 Visitor Counter
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/ishtarcs/count.svg" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -120,6 +112,6 @@
 </p>
 
 <h3 align="center">
-  <!-- GOLDEN DIVIDER BOTTOM -->
-  <img src="https://raw.githubusercontent.com/ishtarcs/assets/main/golden-divider.png" width="100%" alt="Gold Divider">
+  <!-- Ishtar from Fate Image Bottom -->
+  <img src="https://media.giphy.com/media/l41YjX9lbvS6ZZC1S/giphy.gif" width="100%" alt="Ishtar Fate Image">
 </h3>
