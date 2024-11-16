@@ -30,12 +30,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/Language-C%23-68217A?style=flat&logo=c-sharp"/>
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react"/>
 </p>
 
 ---
