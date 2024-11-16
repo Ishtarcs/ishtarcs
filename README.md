@@ -1,6 +1,6 @@
 <h3 align="center">
-  <!-- GOLDEN TEMPLE DIVIDER TOP -->
-  <img src="https://i.imgur.com/L7mT4DL.png" width="100%" alt="Gold Temple Divider">
+  <!-- GOLDEN DIVIDER TOP -->
+  <img src="https://raw.githubusercontent.com/ishtarcs/assets/main/golden-divider.png" width="100%" alt="Gold Divider">
 </h3>
 
 <p align="center">
@@ -10,11 +10,9 @@
 <h1 align="center">Welcome to my profile! 🌟</h1>
 
 <div align="center">
-  <!-- Temple GIF Left -->
-  <img align="left" src="https://media.giphy.com/media/xUOxeW7fSY7Sw3A7TW/giphy.gif" width="20%" alt="Temple GIF Left">
-  
-  <!-- Temple GIF Right -->
-  <img align="right" src="https://media.giphy.com/media/xUOxeW7fSY7Sw3A7TW/giphy.gif" width="20%" alt="Temple GIF Right">
+  <!-- Temple-themed decor -->
+  <img src="https://raw.githubusercontent.com/ishtarcs/assets/main/golden-temple.gif" width="20%" alt="Temple Left">
+  <img src="https://raw.githubusercontent.com/ishtarcs/assets/main/golden-temple.gif" width="20%" alt="Temple Right">
 
   <br>
 
@@ -32,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Zk9mW5OmXTz9e/giphy.gif" width="60%" alt="Temple About Me GIF">
+  <img src="https://raw.githubusercontent.com/ishtarcs/assets/main/about-me-temple.gif" width="60%" alt="About Me Temple GIF">
 </div>
 
 <div align="center">
@@ -122,6 +120,6 @@
 </p>
 
 <h3 align="center">
-  <!-- GOLDEN TEMPLE DIVIDER BOTTOM -->
-  <img src="https://i.imgur.com/L7mT4DL.png" width="100%" alt="Gold Temple Divider">
+  <!-- GOLDEN DIVIDER BOTTOM -->
+  <img src="https://raw.githubusercontent.com/ishtarcs/assets/main/golden-divider.png" width="100%" alt="Gold Divider">
 </h3>
