@@ -1,7 +1,4 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!;Coding+%F0%9F%92%BB+is+Life;Full-Stack+Developer+%F0%9F%8F%A1;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Lover+%F0%9F%8C%9F" alt="Welcome Banner" />
-</p>
+
 
 <div align="center">
   <!-- Glitter Falling GIFs Left and Right -->
