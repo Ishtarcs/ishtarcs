@@ -19,7 +19,6 @@
     <li>🛠️ Experienced with tools like <b>IDA Pro</b> and <b>Ghidra</b> 🧩</li>
     <li>💻 Passionate about low-level programming in <b>C++</b> and <b>C#</b> 🖥️</li>
     <li>👾 Fun fact: I <b>love retro video games</b> and breaking their code 🎮</li>
-    <li>🏠 Connect with me on Discord: <a href="https://discordapp.com/users/1258172662254141603"><b>Ishtarcs</b></a></li>
   </ul>
 </div>
 
@@ -79,8 +78,6 @@
 ## 🖇️ Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://discordapp.com/users/1258172662254141603"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
