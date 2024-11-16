@@ -1,8 +1,8 @@
 <h3 align="center">
   <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="https://komarev.com/ghpvc/?username=atticax&label=Profile%20views&color=0e75b6&style=flat" alt="atticax_profileviews" /> </p>
-  Welcome to Attica Hinageshi´s profile!
+<img src="https://komarev.com/ghpvc/?username=atticax&label=Profile%20views&color=0e75b6&style=flat" alt="ishtarcs_profileviews" /> </p>
+  Welcome to my profile!
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **C#, SQL, JAVA**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Atticax](https://discordapp.com/users/1258172662254141603) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [Ishtarcs](https://discordapp.com/users/1258172662254141603) my username!
 <!--Intro end-->
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
@@ -35,14 +35,14 @@
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/atticax">
+<a href="https://github.com/ishtarcs">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atticax&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atticax&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atticax&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ishtarcs&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### ✍️Random Dev Quote
