@@ -10,11 +10,11 @@
 <h1 align="center">Welcome to my profile! 🌟</h1>
 
 <div align="center">
-  <!-- Glitter Falling GIFs Left and Right -->
-  <img align="left" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-  <img align="right" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <!-- Glitter GIFs Left and Right with Controlled Size -->
+  <img align="left" src="https://media.giphy.com/media/S9oNGCkU6kt0anYvpx/giphy.gif" width="150" height="150" alt="Glitter Left">
+  <img align="right" src="https://media.giphy.com/media/S9oNGCkU6kt0anYvpx/giphy.gif" width="150" height="150" alt="Glitter Right">
 
-  <br>
+  <br clear="both">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+Expert;Code+All+Day;Coffee+Lover" alt="Typing SVG">
@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/bf/9c/17/bf9c175209d6c01ee48316a7dfed1af3.gif">
+  <img src="https://media.giphy.com/media/3oEjI80DSa1grNPTDq/giphy.gif" width="60%" alt="Glitter About Me GIF">
 </div>
 
 <div align="center">
