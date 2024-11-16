@@ -1,34 +1,29 @@
-
-
-<h1 align="center">Welcome to my profile! 🌟</h1>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!;Coding+%F0%9F%92%BB+is+Life;Full-Stack+Developer+%F0%9F%8F%A1;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Lover+%F0%9F%8C%9F" alt="Welcome Banner" />
+</p>
 
 <div align="center">
   <!-- Glitter Falling GIFs Left and Right -->
   <img align="left" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="180" alt="Glitter Left">
   <img align="right" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="180" alt="Glitter Right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=30&pause=1000&color=B1AF00&center=true&vCenter=true&width=435&lines=Database+Rat+%F0%9F%90%80;Coffee+Lover+%E2%98%95;All+Day+Coder+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Ishtar+is+my+Goddess)](https://git.io/typing-svg)
+  <!-- Typing SVG -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=30&pause=1000&color=B1AF00&center=true&vCenter=true&width=600&lines=Database+Rat+%F0%9F%90%80;Coffee+Lover+%E2%98%95;All+Day+Coder+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Ishtar+is+my+Goddess)](https://git.io/typing-svg)
 </div>
-
-<br><br>
 
 ---
 
 <div align="center">
   <h2>✨ About Me ✨</h2>
-</div>
-
-<div align="center">
   <img src="https://i.pinimg.com/originals/bf/9c/17/bf9c175209d6c01ee48316a7dfed1af3.gif" alt="About Me GIF">
-</div>
-
-<div align="center">
   <ul style="list-style: none; padding: 0; text-align: center;">
-    <li>🔭 Currently working on <b>AWS, React, C++</b></li>
-    <li>🌱 Learning to <b>reverse engineer</b> and explore the unknown!</li>
-    <li>☁️ Passionate about <b>Cloud Computing</b>, focusing on <b>AWS</b></li>
-    <li>💬 Ask me about <b>C#, SQL, Java</b> – happy to chat!</li>
-    <li>🏠 Connect with me on Discord: <a href="https://discordapp.com/users/1258172662254141603">Ishtarcs</a></li>
+    <li>🔭 Currently exploring <b>AWS</b> and <b>Cloud Architecture</b></li>
+    <li>🌱 Learning to <b>reverse engineer</b> and break things 🔍</li>
+    <li>🛠️ Focused on <b>Full-Stack Development</b> using <b>React, Node.js, C++</b></li>
+    <li>☁️ Passionate about <b>Cloud Computing</b> and <b>Serverless Solutions</b></li>
+    <li>👾 Fun fact: I <b>love retro video games</b> 🎮</li>
+    <li>🏠 Find me on Discord: <a href="https://discordapp.com/users/1258172662254141603"><b>Ishtarcs</b></a></li>
   </ul>
 </div>
 
@@ -84,9 +79,18 @@
 
 ---
 
+## 🖇️ Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://discordapp.com/users/1258172662254141603"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://forthebadge.com/images/badges/powered-by-respect.svg">
   <img src="https://forthebadge.com/images/badges/uses-git.svg">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
 </p>
-
