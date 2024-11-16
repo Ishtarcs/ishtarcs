@@ -1,6 +1,6 @@
 <h3 align="center">
-  <!-- GOLDEN DIVIDER TOP -->
-  <img src="https://cdn.pixabay.com/photo/2015/11/17/16/23/ornament-1046419_1280.png" width="100%" alt="Gold Divider">
+  <!-- GOLDEN TEMPLE DIVIDER TOP -->
+  <img src="https://i.imgur.com/L7mT4DL.png" width="100%" alt="Gold Temple Divider">
 </h3>
 
 <p align="center">
@@ -10,9 +10,14 @@
 <h1 align="center">Welcome to my profile! 🌟</h1>
 
 <div align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
+  <!-- Temple GIF Left -->
+  <img align="left" src="https://media.giphy.com/media/xUOxeW7fSY7Sw3A7TW/giphy.gif" width="20%" alt="Temple GIF Left">
+  
+  <!-- Temple GIF Right -->
+  <img align="right" src="https://media.giphy.com/media/xUOxeW7fSY7Sw3A7TW/giphy.gif" width="20%" alt="Temple GIF Right">
+
   <br>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Database+Rat;C%23+Expert;C%2B%2B+Enthusiast" alt="Typing SVG">
   </a>
@@ -27,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="60%" alt="About Me GIF">
+  <img src="https://media.giphy.com/media/Zk9mW5OmXTz9e/giphy.gif" width="60%" alt="Temple About Me GIF">
 </div>
 
 <div align="center">
@@ -117,6 +122,6 @@
 </p>
 
 <h3 align="center">
-  <!-- GOLDEN DIVIDER BOTTOM -->
-  <img src="https://cdn.pixabay.com/photo/2015/11/17/16/23/ornament-1046419_1280.png" width="100%" alt="Gold Divider">
+  <!-- GOLDEN TEMPLE DIVIDER BOTTOM -->
+  <img src="https://i.imgur.com/L7mT4DL.png" width="100%" alt="Gold Temple Divider">
 </h3>
