@@ -1,6 +1,6 @@
 <h3 align="center">
   <!-- Ishtar from Fate Anime Style Image Top -->
-  <img src="https://media.giphy.com/media/l41YjX9lbvS6ZZC1S/giphy.gif" width="100%" alt="Ishtar Fate Image">
+  <img src="https://media.tenor.com/khAzbK0RJpgAAAAC/fate-stay-night-iskander.gif" width="100%" alt="Ishtar Fate Image">
 </h3>
 
 <p align="center">
@@ -11,8 +11,8 @@
 
 <div align="center">
   <!-- Ishtar-themed GIFs from Fate -->
-  <img align="left" src="https://media.giphy.com/media/xT9IgmVjsF9LqHCEAs/giphy.gif" width="20%" alt="Ishtar GIF Left">
-  <img align="right" src="https://media.giphy.com/media/5D9Z8ft0i7g7ozXhmF/giphy.gif" width="20%" alt="Ishtar GIF Right">
+  <img align="left" src="https://media.tenor.com/PQ6FLdN-XYIAAAAC/ishtar-fate.gif" width="250" height="350" alt="Ishtar GIF Left">
+  <img align="right" src="https://media.tenor.com/T2hb72X7uVIAAAAC/ishtar-fate-chan.gif" width="250" height="350" alt="Ishtar GIF Right">
 
   <br>
 
@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/j0iC7PmhP5mbwv6ePV/giphy.gif" width="60%" alt="About Me Ishtar GIF">
+  <img src="https://media.tenor.com/peNYVmrp0Y0AAAAC/ishtar-fate.gif" width="60%" alt="About Me Ishtar GIF">
 </div>
 
 <div align="center">
@@ -113,5 +113,5 @@
 
 <h3 align="center">
   <!-- Ishtar from Fate Image Bottom -->
-  <img src="https://media.giphy.com/media/l41YjX9lbvS6ZZC1S/giphy.gif" width="100%" alt="Ishtar Fate Image">
+  <img src="https://media.tenor.com/khAzbK0RJpgAAAAC/fate-stay-night-iskander.gif" width="100%" alt="Ishtar Fate Image">
 </h3>
