@@ -4,8 +4,8 @@
 
 <div align="center">
   <!-- Glitter Falling GIFs Left and Right -->
-  <img align="left" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="200" alt="Glitter Left">
-  <img align="right" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="200" alt="Glitter Right">
+  <img align="left" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="180" alt="Glitter Left">
+  <img align="right" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="180" alt="Glitter Right">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+Expert;Code+All+Day;Database+Rat;Coffee+Lover" alt="Typing SVG">
@@ -94,5 +94,5 @@
 
 <h3 align="center">
   <!-- Glitter Falling Bottom GIF -->
-  <img src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300" alt="Glitter Falling Bottom">
+  <img src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" height="300" alt="Glitter Falling Bottom">
 </h3>
