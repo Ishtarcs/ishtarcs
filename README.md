@@ -15,14 +15,14 @@
   <h2>✨ About Me ✨</h2>
   <img src="https://i.pinimg.com/originals/bf/9c/17/bf9c175209d6c01ee48316a7dfed1af3.gif" alt="About Me GIF">
   <ul style="list-style: none; padding: 0; text-align: center;">
-    <li>🔭 Currently exploring <b>AWS</b> and <b>Cloud Architecture</b></li>
-    <li>🌱 Learning to <b>reverse engineer</b> and break things 🔍</li>
-    <li>🛠️ Focused on <b>Full-Stack Development</b> using <b>React, Node.js, C++</b></li>
-    <li>☁️ Passionate about <b>Cloud Computing</b> and <b>Serverless Solutions</b></li>
-    <li>👾 Fun fact: I <b>love retro video games</b> 🎮</li>
-    <li>🏠 Find me on Discord: <a href="https://discordapp.com/users/1258172662254141603"><b>Ishtarcs</b></a></li>
+    <li>🔭 Currently diving deep into <b>Assembly Language</b> and <b>Reverse Engineering</b> 🔍</li>
+    <li>🛠️ Experienced with tools like <b>IDA Pro</b> and <b>Ghidra</b> 🧩</li>
+    <li>💻 Passionate about low-level programming in <b>C++</b> and <b>C#</b> 🖥️</li>
+    <li>👾 Fun fact: I <b>love retro video games</b> and breaking their code 🎮</li>
+    <li>🏠 Connect with me on Discord: <a href="https://discordapp.com/users/1258172662254141603"><b>Ishtarcs</b></a></li>
   </ul>
 </div>
+
 
 ---
 
