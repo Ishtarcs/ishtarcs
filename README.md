@@ -1,8 +1,3 @@
-<h3 align="center">
-  <!-- Glitter Falling Top GIF -->
-  <img src="https://media.giphy.com/media/l0HlyzTuDhSJj4HR2/giphy.gif" width="100%" alt="Glitter Falling Top">
-</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishtarcs&label=Profile%20views&color=f1c40f&style=flat" alt="Profile Views" />
 </p>
@@ -10,9 +5,9 @@
 <h1 align="center">Welcome to my profile! 🌟</h1>
 
 <div align="center">
-  <!-- Glitter GIFs Left and Right with Controlled Size -->
-  <img align="left" src="https://media.giphy.com/media/S9oNGCkU6kt0anYvpx/giphy.gif" width="150" height="150" alt="Glitter Left">
-  <img align="right" src="https://media.giphy.com/media/S9oNGCkU6kt0anYvpx/giphy.gif" width="150" height="150" alt="Glitter Right">
+  <!-- Glitter Falling GIFs Left and Right -->
+  <img align="left" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100" alt="Glitter Left">
+  <img align="right" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100" alt="Glitter Right">
 
   <br clear="both">
 
@@ -30,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI80DSa1grNPTDq/giphy.gif" width="60%" alt="Glitter About Me GIF">
+  <img src="https://i.pinimg.com/originals/bf/9c/17/bf9c175209d6c01ee48316a7dfed1af3.gif" alt="About Me GIF">
 </div>
 
 <div align="center">
