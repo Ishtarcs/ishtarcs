@@ -4,17 +4,17 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishtarcs&label=Profile%20views&color=0e75b6&style=flat" alt="profile_views" /> 
+  <img src="https://komarev.com/ghpvc/?username=ishtarcs&label=Profile%20views&color=ffb6c1&style=flat" alt="profile_views" /> 
 </p>
 
-<h1 align="center">Welcome to my profile! 👋</h1>
+<h1 align="center">🌸 Welcome to my profile! 🌸</h1>
 
 <div align="center">
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=4407F7&center=true&vCenter=true&width=435&lines=Database+Rat;C%23+;C%2B%2B">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Database+Rat;C%23+;C%2B%2B">
   </a>
 </div>
 
@@ -28,8 +28,8 @@
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="60%" alt="About Me GIF">
 </div>
 
-<div align="center">
-  <ul>
+<div align="center" style="text-align: center;">
+  <ul style="list-style-type: none; padding: 0;">
     <li>🔭 Currently working on <b>AWS, React, C++</b></li>
     <li>🌱 Learning to <b>reverse engineer</b> multiple things for something special!</li>
     <li>☁️ Passionate about <b>Cloud Computing</b>, currently exploring <b>AWS</b></li>
@@ -43,14 +43,14 @@
 ## ⚙️ Current Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/Language-C%23-green?style=flat&logo=c-sharp"/>
-  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/OS-Linux-ffb6c1?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-ffb6c1?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-ffb6c1?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-ffb6c1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Docker-ffb6c1?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-ffb6c1?style=flat&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/Language-C%23-ffb6c1?style=flat&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/Framework-React-ffb6c1?style=flat&logo=react"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishtarcs&theme=github"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishtarcs&theme=sakura"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://github.com/ishtarcs">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=ishtarcs&lineCount=3&theme=github_dark" width="300">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=ishtarcs&lineCount=3&theme=sakura" width="300">
   </a>
 </p>
 
@@ -95,7 +95,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishtarcs&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ishtarcs&theme=sakura&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
 ---
