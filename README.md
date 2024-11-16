@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishtarcs&label=Profile%20views&color=f1c40f&style=flat" alt="Profile Views" />
-</p>
+
 
 <h1 align="center">Welcome to my profile! 🌟</h1>
 
 <div align="center">
   <!-- Glitter Falling GIFs Left and Right -->
-  <img align="left" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100" alt="Glitter Left">
-  <img align="right" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100" alt="Glitter Right">
+  <img align="left" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="300" alt="Glitter Left">
+  <img align="right" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="300" alt="Glitter Right">
 
   <br clear="both">
 
@@ -98,5 +96,5 @@
 
 <h3 align="center">
   <!-- Glitter Falling Bottom GIF -->
-  <img src="https://media.giphy.com/media/1zk0v9AfPmFZKSghOT/giphy.gif" width="100%" alt="Glitter Falling Bottom">
+  <img src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="300" alt="Glitter Falling Bottom">
 </h3>
