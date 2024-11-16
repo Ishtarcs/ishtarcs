@@ -7,9 +7,7 @@
   <img align="left" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="180" alt="Glitter Left">
   <img align="right" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="180" alt="Glitter Right">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+Expert;Code+All+Day;Database+Rat;Coffee+Lover" alt="Typing SVG">
-  </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=30&pause=1000&color=B1AF00&center=true&vCenter=true&width=435&lines=Database+Rat+%F0%9F%90%80;Coffee+Lover+%E2%98%95;All+Day+Coder+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Ishtar+is+my+Goddess)](https://git.io/typing-svg)
 </div>
 
 <br><br>
