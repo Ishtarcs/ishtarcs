@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atticax&label=Profile%20views&color=0e75b6&style=flat" alt="profile_views" /> 
+  <img src="https://komarev.com/ghpvc/?username=ishtarcs&label=Profile%20views&color=0e75b6&style=flat" alt="profile_views" /> 
 </p>
 
 <h1 align="center">Welcome to my profile! 👋</h1>
@@ -49,7 +49,7 @@
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=atticax&theme=github"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishtarcs&theme=github"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://github.com/atticax">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=atticax&lineCount=3&theme=github_dark" width="300">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=ishtarcs&lineCount=3&theme=github_dark" width="300">
   </a>
 </p>
 
@@ -68,8 +68,8 @@
 
 <div align="center">
   <a href="https://github.com/atticax">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atticax&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atticax&layout=compact&langs_count=7&theme=default"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishtarcs&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtarcs&layout=compact&langs_count=7&theme=default"/>
   </a>
 </div>
 
@@ -78,7 +78,7 @@
 ## 🌐 Visitor Counter
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/atticax/count.svg" />
+  <img src="https://profile-counter.glitch.me/ishtarcs/count.svg" />
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atticax&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ishtarcs&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
 ---
