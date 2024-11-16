@@ -90,7 +90,3 @@
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
 </p>
 
-<h3 align="center">
-  <!-- Glitter Falling Bottom GIF -->
-  <img src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" height="300" alt="Glitter Falling Bottom">
-</h3>
