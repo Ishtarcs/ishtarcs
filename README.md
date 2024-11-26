@@ -61,15 +61,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ishtarcs&theme=algolia&no-frame=true&bg_color=0e1116&title_color=FFD700&text_color=c0c0c0&margin-w=15"/>
 </div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</div>
-
 ---
 
 ## 🖇️ Let's Connect!
