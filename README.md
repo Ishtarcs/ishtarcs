@@ -1,78 +1,31 @@
+# 💫 About Me:
+🔭 Currently diving deep into Assembly Language and Reverse Engineering 🔍<br>🛠️ Experienced with tools like IDA Pro and Ghidra 🧩<br>💻 Passionate about low-level programming in C++ and C# 🖥️<br>👾 Fun fact: I love retro video games and breaking their code 🎮
 
 
-<div align="center">
-  <!-- Glitter Falling GIFs Left and Right -->
-  <img align="left" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="140" alt="Glitter Left">
-  <img align="right" src="https://media0.giphy.com/media/RF9WyGuttvnNe/giphy.gif?cid=6c09b952ns563a0ju43jvvggj4vnqsz5883m0a1u7njcbw43&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120" height="140" alt="Glitter Right">
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theambiente@icloud.com) 
 
-  <!-- Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=30&pause=1000&color=B1AF00&center=true&vCenter=true&width=600&lines=Database+Rat+%F0%9F%90%80;Coffee+Lover+%E2%98%95;All+Day+Coder+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Ishtar+is+my+Goddess)](https://git.io/typing-svg)
-</div>
-
----
-
-<div align="center">
-  <h2>✨ About Me ✨</h2>
-  <img src="https://i.pinimg.com/originals/bf/9c/17/bf9c175209d6c01ee48316a7dfed1af3.gif" alt="About Me GIF">
-  <ul style="list-style: none; padding: 0; text-align: center;">
-    <li>🔭 Currently diving deep into <b>Assembly Language</b> and <b>Reverse Engineering</b> 🔍</li>
-    <li>🛠️ Experienced with tools like <b>IDA Pro</b> and <b>Ghidra</b> 🧩</li>
-    <li>💻 Passionate about low-level programming in <b>C++</b> and <b>C#</b> 🖥️</li>
-    <li>👾 Fun fact: I <b>love retro video games</b> and breaking their code 🎮</li>
-  </ul>
-</div>
-
-
----
-
-## ⚙️ Current Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/Language-C%23-68217A?style=flat&logo=c-sharp"/>
-</p>
-
----
-
-## 🌐 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishtarcs&bg_color=0e1116&color=ffffff&line=ffd700&point=c0c0c0&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ishtarcs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishtarcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0e1116&title_color=FFD700&icon_color=c0c0c0&text_color=ffffff"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtarcs&layout=compact&langs_count=7&theme=tokyonight&bg_color=0e1116&title_color=FFD700&text_color=ffffff"/>
-  </a>
-</div>
-
----
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ishtarcs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ishtarcs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtarcs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ishtarcs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishtarcs&theme=algolia&no-frame=true&bg_color=0e1116&title_color=FFD700&text_color=c0c0c0&margin-w=15"/>
-</div>
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🖇️ Let's Connect!
-
-<p align="center">
-  <a href="https://discordapp.com/users/1258172662254141603"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ishtarcs&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ishtarcs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-respect.svg">
-  <img src="https://forthebadge.com/images/badges/uses-git.svg">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-</p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ambiente) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
