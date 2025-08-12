@@ -1,4 +1,8 @@
-# 🛠️ Low-Level Developer
+
+# 🜏 ISHTAR 🜏  
+**Resistance is Futile**
+
+*"Every system has a flaw. I just find it faster than most."*
 
 > *"Code is just a puzzle — and I love breaking it."*
 
