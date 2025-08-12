@@ -1,5 +1,5 @@
 
-# 🜏 ISHTAR 🜏  
+# 🜏 Ambi 🜏  
 **Resistance is Futile**
 
 *"Every system has a flaw. I just find it faster than most."*
